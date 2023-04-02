@@ -1,0 +1,9 @@
+sintaks git clone https://github.com/jjarfi/namaproject     (clone project dari repo github ke komputer kita).
+sintaks buat repository lewat command line  = git init namarepository
+masuk kedalam repository yang dibuat
+sintaks = git init
+sintaks = git add .
+sintaks create repo lewat cmd =  gh repo create project-java --public --source=. --remote=upstream
+download & install gh extension https://cli.github.com
+command login di github cli gunakan github CMD = gh auth login
+pilih yang HTTPS menggunakan arah panah
